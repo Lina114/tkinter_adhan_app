@@ -1,6 +1,4 @@
-Sure, here’s the updated README with the provided link:
 
----
 
 # 🌙📱 tkinter_adhan_app
 
@@ -74,4 +72,3 @@ Thank you for using **tkinter_adhan_app**! May it be beneficial to you. 🌟✨
 
 ---
 
-Feel free to customize any additional details as per your requirements!

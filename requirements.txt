@@ -1,0 +1,6 @@
+customtkinter
+pygame
+arabic_reshaper
+python-bidi
+requests
+
